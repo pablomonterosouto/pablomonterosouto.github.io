@@ -35,7 +35,17 @@
   </url>
   
   <url>
+    <loc>https://pablomonterosouto.github.io/categories/analysis/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pablomonterosouto.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pablomonterosouto.github.io/tags/infojobs/</loc>
     <priority>0</priority>
   </url>
   
@@ -55,6 +65,10 @@
     <loc>https://pablomonterosouto.github.io/post/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pablomonterosouto.github.io/1/01/01/programming-languages/</loc>
   </url>
   
   <url>
